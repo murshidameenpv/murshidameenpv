@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Murshid Ameen</h1>
-<h3 align="center">I'm a Logical and organised individual with a strong foundation in full-stack development. Proficient in JavaScript and React. Seeking to raise coding KPIs.</h3>
+<div align="center">
 
-<p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="murshidameenpv" />
-</p>
+## **Hey, I'm Murshid Ameen!**
 
-<p align="center">
-  - 📫 How to reach me: **murshidmonzpv@gmial.com**
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Mono&size=30&duration=3000&pause=100&color=F77808&background=0006FF00&center=true&vCenter=true&random=true&width=500&height=60&lines=A+Computer+Science+Major;A+Full+Stack+Developer;A+Web+Developer;" alt="Typing SVG" />
+</a>
 
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidameenpv&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=murshidameenpv&label=Visitors+Count&color=orange&style=for-the-badge)
+<p style="font-size: 15px;">I'm a Logical and organised individual with a strong foundation in full-stack development. Proficient in JavaScript and React. Seeking to raise coding KPIs.</p>
+
+</div>
