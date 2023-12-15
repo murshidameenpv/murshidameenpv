@@ -11,8 +11,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=murshidameenpv&label=Visitors+Count&color=orange&style=for-the-badge)
-<a href="mailto:murshidmonzpv@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Contact%20Me-Gmail-red?style=for-the-badge"></a>
-
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
 
 <p style="font-size: 15px;">I'm a Logical and organised individual with a strong foundation in full-stack development. Proficient in JavaScript and React. Seeking to raise coding KPIs.</p>
 
