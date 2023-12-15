@@ -9,9 +9,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidameenpv&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 
-
-![](https://komarev.com/ghpvc/?username=murshidameenpv&label=Visitors+Count&color=orange&style=for-the-badge)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-murshidmonzpv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
 
 <p style="font-size: 15px;">I'm a Logical and organised individual with a strong foundation in full-stack development. Proficient in JavaScript and React. Seeking to raise coding KPIs.</p>
 
