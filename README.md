@@ -7,7 +7,7 @@
 </a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=murshidameen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murshidameenpv)](https://git.io/streak-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/-murshidmonzpv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
 
