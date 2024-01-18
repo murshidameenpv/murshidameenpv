@@ -7,7 +7,7 @@
 </a>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=murshidameenpv&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murshidameen)](https://git.io/streak-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/-murshidmonzpv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
 
