@@ -11,6 +11,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-murshidmonzpv-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:murshidmonzpv@gmail.com)](mailto:murshidmonzpv@gmail.com)
 
-<p style="font-size: 15px;">I'm a Logical and organised individual with a strong foundation in full-stack development. Proficient in JavaScript and React. Seeking to raise coding KPIs.</p>
+<p style="font-size: 15px;">Full-stack developer. Half-stack sanity</p>
 
 </div>
